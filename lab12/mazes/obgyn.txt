@@ -1,0 +1,12 @@
+11 20
+X X X X X X X X X X X X X X X X X X X X 
+X         X   .   .         X         X 
+X   X X   X . X X X X X X   X   X X   X 
+X   X     .       .               X   X 
+X   X   X X   X X     X X   X X   X   X 
+X   .   . . . X . .     X             X 
+X . X   X X   X X X X X X   X X   X   X 
+X   X     .       .               X   X 
+X . X X   X   X X X X X X   X   X X   X 
+X   .   . X .     S         X         X 
+X X X X X X X X X X X X X X X X X X X X 
